@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: giovanninzibmcom-acc-dev.apic.au-syd.mybluemix.net
+  name: node4mysql
+  host: node4mysql
+  disk_quota: 1024M
